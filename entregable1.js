@@ -64,3 +64,6 @@ console.log(productManager.getProducts());
 
 console.log(productManager.getProductsById(2));
 console.log(productManager.getProductsById(4));
+
+
+const productManager = new ProductManager();
